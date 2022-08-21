@@ -1,14 +1,14 @@
 {
-  "name": "sit725-2022-t2-prac2",
+  "name": "sit725-2022-t2-prac4",
   "version": "1.0.0",
-  "description": "sit 725 2022 t2 week 3 practical",
+  "description": "sit 725 2022 t2 week 4 practical",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhimanyu-rana/sit725-2022-t2-prac3.git"
+    "url": "git+https://github.com/abhimanyu-rana/sit725-2022-t2-prac4.git"
   },
   "keywords": [
     "Node",
@@ -18,9 +18,9 @@
   "author": "Abhimanyu Rana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abhimanyu-rana/sit725-2022-t2-prac3/issues"
+    "url": "https://github.com/abhimanyu-rana/sit725-2022-t2-prac4/issues"
   },
-  "homepage": "https://github.com/abhimanyu-rana/sit725-2022-t2-prac3#readme",
+  "homepage": "https://github.com/abhimanyu-rana/sit725-2022-t2-prac4#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1",
