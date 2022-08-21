@@ -6,10 +6,10 @@ const cardList = [
         desciption: "Hozier Lane near Flinders Street has beautiful Graffiti"
     },
     {
-        title: "Flinders Street",
-        image: "images/IMG_4731.JPG",
-        link: "About Flinders Street",
-        desciption: "Flinders Street runs parallel to the Yarra River"
+        title: "Food",
+        image: "images/IMG_4822.PNG",
+        link: "Good Food",
+        desciption: "Flinders Street runs parallel to the Yarra River and has good cafes for good food options"
     }
 ]
 
