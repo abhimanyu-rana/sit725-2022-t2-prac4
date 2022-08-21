@@ -1,7 +1,7 @@
 const cardList = [
     {
         title: "Hozier Lane",
-        image: "E56F4E24-035B-41C1-A62A-894D57F5BC29.JPG",
+        image: "images/E56F4E24-035B-41C1-A62A-894D57F5BC29.JPG",
         link: "About The Graffiti",
         desciption: "Hozier Lane near Flinders Street has beautiful Graffiti"
     },
