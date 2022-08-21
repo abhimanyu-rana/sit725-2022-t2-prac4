@@ -1,4 +1,4 @@
-# sit725-2022-t2-prac3
+# sit725-2022-t2-prac4
 
 ## Prerequisites
 Nodejs
@@ -6,3 +6,7 @@ Nodejs
 ## Run The Application
 $ npm install
 $ npm run start
+
+## Images To be used
+A.JPG
+B.JPG
