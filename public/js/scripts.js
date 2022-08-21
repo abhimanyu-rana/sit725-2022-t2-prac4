@@ -1,9 +1,9 @@
 const cardList = [
     {
         title: "Hozier Lane",
-        image: "images//Users/abhimanyurana/Documents/SIT725-Prac/sit725-2022-t2-prac3/public/images/E56F4E24-035B-41C1-A62A-894D57F5BC29.JPG",
-        link: "About Kitten 2",
-        desciption: "Description about myself"
+        image: "E56F4E24-035B-41C1-A62A-894D57F5BC29.JPG",
+        link: "About The Graffiti",
+        desciption: "Hozier Lane near Flinders Street has beautiful Graffiti"
     },
     {
         title: "Flinders Street",
