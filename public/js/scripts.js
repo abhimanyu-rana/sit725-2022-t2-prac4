@@ -1,12 +1,12 @@
 const cardList = [
     {
-        title: "Kitten 2",
-        image: "images/kitten-2.jpg",
+        title: "Hozier Lane",
+        image: "images//Users/abhimanyurana/Documents/SIT725-Prac/sit725-2022-t2-prac3/public/images/E56F4E24-035B-41C1-A62A-894D57F5BC29.JPG",
         link: "About Kitten 2",
-        desciption: "Demo desciption about kitten 2"
+        desciption: "Description about myself"
     },
     {
-        title: "Kitten 3",
+        title: "Flinders Street",
         image: "images/kitten-3.jpg",
         link: "About Kitten 3",
         desciption: "Demo desciption about kitten 3"
