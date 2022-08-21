@@ -10,6 +10,7 @@ $ npm run start
 ## Images To be used
 A.JPG
 B.JPG
+livedemo.png
 
 ## Port
 3001
