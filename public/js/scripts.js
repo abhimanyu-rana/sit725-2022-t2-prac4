@@ -7,7 +7,7 @@ const cardList = [
     },
     {
         title: "Flinders Street",
-        image: "images/IMG_4674.HEIC",
+        image: "images/IMG_4731.JPG",
         link: "About Flinders Street",
         desciption: "Flinders Street runs parallel to the Yarra River"
     }
