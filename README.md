@@ -10,3 +10,6 @@ $ npm run start
 ## Images To be used
 A.JPG
 B.JPG
+
+## Port
+3001
