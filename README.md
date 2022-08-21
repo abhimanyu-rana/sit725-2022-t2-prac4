@@ -8,9 +8,9 @@ $ npm install
 $ npm run start
 
 ## Images To be used
-A.JPG
-B.JPG
-livedemo.png
+images/A.JPG
+images/B.JPG
+images/livedemo.png
 
 ## Port
 3001
